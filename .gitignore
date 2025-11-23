@@ -1,0 +1,26 @@
+# Excel temporary files
+~$*.xls*
+*.tmp
+
+# Excel backup files
+*.xlk
+
+# VBA export files (optional, comment out if you want to track them)
+# *.vba
+
+# Windows thumbnail cache
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Logs
+*.log
+
+# System Files
+*.swp
+*~
+
