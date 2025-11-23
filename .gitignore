@@ -5,6 +5,9 @@
 # Excel backup files
 *.xlk
 
+# Excel files with macros (binary files, should not be in Git)
+*.xlsm
+
 # VBA export files (optional, comment out if you want to track them)
 # *.vba
 
